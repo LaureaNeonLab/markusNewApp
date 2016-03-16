@@ -1,0 +1,9 @@
+***Fishing app***
+
+User is able to log in. (With Facebook or created account)
+
+From front page after login, user is able to read fishing book that contains all fishes found in Finland.
+
+In the fishing spots section user is able to search spot, view them on map and add own spots. (The map is made with google maps)
+
+In the catches section user is able to add own catches, view catches added by other users and search catches. Catch also contains link to fishing spot.
